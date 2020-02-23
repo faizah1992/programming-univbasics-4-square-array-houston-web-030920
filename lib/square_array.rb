@@ -5,5 +5,5 @@ while
   array[counter]do
     puts array[counter]
     counter +=1
-    return newarray
+    return 
 end
